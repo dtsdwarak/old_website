@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+# ====
+
+    Dwarak - The All in All Azhagu Raja - @dtsdwarak
+
+# THANKS
+# ======
+
+    000webhost \m/
+	Crazydomains.in
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript
+	Built with Sublime on Linux Mint B-)
