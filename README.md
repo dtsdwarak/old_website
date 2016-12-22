@@ -1,3 +1,8 @@
+
+> This is the code for the old website I once used to have. The new jekyll-powered portfolio website can be found in [another repo](https://github.com/dtsdwarak/personal_website).
+
+---
+
 #Website
 
 Code for my website <http://www.dwarak.in> released under GNU GPL v3.0
