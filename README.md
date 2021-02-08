@@ -3,11 +3,11 @@
 
 ---
 
-#Website
+# Website
 
-Code for my website <http://www.dwarak.in> released under GNU GPL v3.0
+~~Code for my website <http://www.dwarak.in> released under GNU GPL v3.0~~
 
-##Used
+## Used
 
 1. [HTML5 Boilerplate](http://html5boilerplate.com/) for starter template
 2. [Codrops Images and Icons](http://tympanus.net/codrops/)
